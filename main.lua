@@ -4,7 +4,7 @@ local UserInputService = game:GetService("UserInputService")
 local TweenService = game:GetService("TweenService")
 
 local localPlayer = Players.LocalPlayer
-local MAX_DISTANCE = 300
+local MAX_DISTANCE = 600
 local BAR_LENGTH = 50
 local BEAM_STACK = 2
 
